@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Oswalldi
+- 👀 I’m interested in Music, Video Games and Anime. 
+- 🌱 I’m currently learning Swift, Python and HTML.
+- 💞️ I’m looking to learn as much as I can from the community. 
+- 📫 How to reach me @oswalldi on Discord
